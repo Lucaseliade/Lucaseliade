@@ -12,7 +12,7 @@
 
 ###
 
-##Languages and Tools##
+<h2>Languages and Tools</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
   <img width="12" />
